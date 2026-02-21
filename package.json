@@ -1,0 +1,9 @@
+{
+  "name": "amm-constant-product-engine",
+  "version": "1.0.0",
+  "description": "A professional constant product AMM implementation",
+  "dependencies": {
+    "@openzeppelin/contracts": "^5.0.0",
+    "hardhat": "^2.19.0"
+  }
+}
